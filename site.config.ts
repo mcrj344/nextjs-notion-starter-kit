@@ -14,7 +14,7 @@ export default siteConfig({
   author: '墨小晨',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '墨小晨的自留地',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
